@@ -1,7 +1,7 @@
 #ifndef NETWORK_h
 #define NETWORK_h
 //#include <ESP8266HTTPClient.h>
-#include <ArduinoHttpClient.h>
+//#include <ArduinoHttpClient.h>
 class NETWORK
 {
 public:
